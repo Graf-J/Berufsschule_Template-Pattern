@@ -1,0 +1,13 @@
+C:\Users\Johannes\source\repos\Berufsschule_Template-Pattern\Berufsschule_Template-Pattern\bin\Debug\netcoreapp3.1\Berufsschule_Template-Pattern.exe
+C:\Users\Johannes\source\repos\Berufsschule_Template-Pattern\Berufsschule_Template-Pattern\bin\Debug\netcoreapp3.1\Berufsschule_Template-Pattern.deps.json
+C:\Users\Johannes\source\repos\Berufsschule_Template-Pattern\Berufsschule_Template-Pattern\bin\Debug\netcoreapp3.1\Berufsschule_Template-Pattern.runtimeconfig.json
+C:\Users\Johannes\source\repos\Berufsschule_Template-Pattern\Berufsschule_Template-Pattern\bin\Debug\netcoreapp3.1\Berufsschule_Template-Pattern.runtimeconfig.dev.json
+C:\Users\Johannes\source\repos\Berufsschule_Template-Pattern\Berufsschule_Template-Pattern\bin\Debug\netcoreapp3.1\Berufsschule_Template-Pattern.dll
+C:\Users\Johannes\source\repos\Berufsschule_Template-Pattern\Berufsschule_Template-Pattern\bin\Debug\netcoreapp3.1\Berufsschule_Template-Pattern.pdb
+C:\Users\Johannes\source\repos\Berufsschule_Template-Pattern\Berufsschule_Template-Pattern\obj\Debug\netcoreapp3.1\Berufsschule_Template-Pattern.csprojAssemblyReference.cache
+C:\Users\Johannes\source\repos\Berufsschule_Template-Pattern\Berufsschule_Template-Pattern\obj\Debug\netcoreapp3.1\Berufsschule_Template-Pattern.AssemblyInfoInputs.cache
+C:\Users\Johannes\source\repos\Berufsschule_Template-Pattern\Berufsschule_Template-Pattern\obj\Debug\netcoreapp3.1\Berufsschule_Template-Pattern.AssemblyInfo.cs
+C:\Users\Johannes\source\repos\Berufsschule_Template-Pattern\Berufsschule_Template-Pattern\obj\Debug\netcoreapp3.1\Berufsschule_Template-Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\source\repos\Berufsschule_Template-Pattern\Berufsschule_Template-Pattern\obj\Debug\netcoreapp3.1\Berufsschule_Template-Pattern.dll
+C:\Users\Johannes\source\repos\Berufsschule_Template-Pattern\Berufsschule_Template-Pattern\obj\Debug\netcoreapp3.1\Berufsschule_Template-Pattern.pdb
+C:\Users\Johannes\source\repos\Berufsschule_Template-Pattern\Berufsschule_Template-Pattern\obj\Debug\netcoreapp3.1\Berufsschule_Template-Pattern.genruntimeconfig.cache
